@@ -11,7 +11,7 @@ const Hero = () => {
                         <h1> Data to enrich your</h1>
                         <h1><span className="primary-color"> online business</span></h1>
                         <p>
-                        orem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia
                          quam eget neque laoreet dapibus. Sed id est eleifend, auctor ipsum at, 
                          iaculis nisl. Etiam cursus enim ut neque consectetur porttitor.
                         </p>
